@@ -2,7 +2,7 @@
 
 **Overview** :
 
-The Movie Booking System is a Java-based application that allows users to book movie tickets online. It provides a user-friendly interface for selecting movies, choosing showtimes, and purchasing tickets. The system also includes features for user authentication, seat selection, and viewing customer profiles.
+The Movie Booking System is a Java-based application using Swing UI that allows users to book movie tickets online. It provides a user-friendly interface for selecting movies, choosing showtimes, and purchasing tickets. The system also includes features for user authentication, seat selection, and viewing customer profiles.
 
 
 **Problem Statement** :
