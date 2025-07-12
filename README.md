@@ -4,6 +4,7 @@
 
 The Movie Booking System is a Java-based application that allows users to book movie tickets online. It provides a user-friendly interface for selecting movies, choosing showtimes, and purchasing tickets. The system also includes features for user authentication, seat selection, and viewing customer profiles.
 
+
 **Problem Statement** :
 
 In the current entertainment landscape, moviegoers often encounter several challenges that hinder their experience when booking tickets. These challenges include long queues at theaters, limited access to information about available movies, and difficulties in selecting preferred seats. Traditional ticket booking systems are often fragmented and inefficient, leading to frustration for users who seek a seamless and enjoyable experience.
@@ -17,12 +18,14 @@ With the rise of online ticketing, there’s a growing need for systems that:
 - Offer an interactive seat selection feature that visually represents available and booked seats.
 - Include options for viewing user profiles and managing bookings.
 
+
 **Tech Stack**
 
 Programming Language: Java
 GUI Framework: Swing for user interface development
 Database: MySQL for data storage
 Database Connectivity: JDBC for connecting to the MySQL database
+
 
 **Tech Stack Implementation** 
 
@@ -41,6 +44,7 @@ MySQL: Employed for persistent storage of user data, movie listings, and booking
 **Database Connectivity**
 
 JDBC: Used for connecting the Java application to the MySQL database, facilitating data retrieval and manipulation through SQL queries.
+
 
 **Key Features and Implementation**
 
@@ -71,6 +75,7 @@ JDBC: Used for connecting the Java application to the MySQL database, facilitati
 **Profile Management**
 **View Profile**: Customers can view their profile information and booking history.
 
+
 **Code Flow Summary**
 
 User Initialization        →   Input username and password for authentication.
@@ -89,7 +94,9 @@ Profile Management         →   View and manage user profile information.
 
 End of Process             →   Conclude the session and allow for a new booking or exit.
 
+
 **Output** : https://drive.google.com/file/d/1s93_Pgg3Zn5UgLCD9h7YGpgOoywyX4bd/view?usp=sharing
+
 
 **Future Enhancements**
 
@@ -98,6 +105,7 @@ End of Process             →   Conclude the session and allow for a new bookin
 - Mobile Application : Develop a mobile version of the application for better accessibility.
 - Enhanced Search : Implement advanced search filters for movies based on genre, rating, and release date.
 - User  Reviews : Allow users to leave reviews and ratings for movies.
+
 
 **Setup Instructions**
 To run the Movie Booking System, follow these steps:
