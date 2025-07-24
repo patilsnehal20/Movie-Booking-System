@@ -95,7 +95,7 @@ Profile Management         →   View and manage user profile information.
 End of Process             →   Conclude the session and allow for a new booking or exit.
 
 
-**Output** : https://drive.google.com/file/d/1s93_Pgg3Zn5UgLCD9h7YGpgOoywyX4bd/view?usp=sharing
+**Demo Output** : https://drive.google.com/file/d/1s93_Pgg3Zn5UgLCD9h7YGpgOoywyX4bd/view?usp=sharing
 
 
 **Future Enhancements**
